@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 The App Images:
 
-<img src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/1.jpg" data-canonical-src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/1.jpg" width="250" height="450" />  <img src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/2.jpg" data-canonical-src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/2.jpg" width="250" height="450" />
+<img src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/1.jpg" data-canonical-src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/1.jpg" width="250" height="500" />  <img src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/2.jpg" data-canonical-src="https://github.com/kadielif/Schulte-Table-Game-/blob/main/img/2.jpg" width="250" height="500" />
